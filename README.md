@@ -1,2 +1,2 @@
 # git_test
-Hello Odin!
+By Odin, by Thor! Use your brain!
